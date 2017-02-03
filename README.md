@@ -1,2 +1,2 @@
 # Scrooge-Coin-Server
-About Cryptocurrency and BlockChain
+About Cryptocurrency
