@@ -1,4 +1,4 @@
-package hw3;
+package scroogecoin;
 
 import junit.framework.TestCase;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
